@@ -1,10 +1,8 @@
-1) hello world!
-2) hello world!
-3) hello world!
+*important*
+_important_
 
---------------------
-1. hello world!
+**important**
+__important__
 
-2. hello world!
-
-3. hello world!
+***important***
+___important___
